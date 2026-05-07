@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+.#*
+\#*\#
+
+# Claude Code
+.claude/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs / temp
+*.log
+*.tmp
