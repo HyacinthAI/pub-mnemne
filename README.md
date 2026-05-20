@@ -19,7 +19,7 @@ currently is offered in two forms:
 - **Mnemne** — desktop app for macOS.
 - **Mnemne Enterprise** — runs on an appliance inside the
   customer's data center for institutional knowledge management.
-- 
+  
 For product details, downloads, and pricing, see **<https://mnemne.ai>**.
 
 ## What's in here
