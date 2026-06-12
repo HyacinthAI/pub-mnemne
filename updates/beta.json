@@ -1,11 +1,11 @@
 {
-  "version": "0.10.182",
-  "notes": "Mnemne 0.10.182",
-  "pub_date": "2026-06-12T12:09:59Z",
+  "version": "0.10.183",
+  "notes": "Mnemne 0.10.183",
+  "pub_date": "2026-06-12T12:49:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUVVndVdrVU1MbEdwb3dNM1J6SVhSbVJwN2FEaXd6ajhkTXdyTk9kSHZ1MDA3UjdIUjNDNEdOUDExODZmSUtlQ2tkd2pxZitpVVBQUHQyVzVDOGlkbHVpOS9YZUFMUFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY1NDk5CWZpbGU6TW5lbW5lLmFwcC50YXIuZ3oKZDM5a2NLZENLNHNqaGorVlRRcUQzazhHV2pWYVZNdlZROEg1OEdFK3ZGSmdlWGtZdlBBZzFhNlU2blhsWUpoZnExNHR5YzBOU3cvVUZscTcwMEJtQ2c9PQo=",
-      "url": "https://github.com/HyacinthAI/pub-mnemne/releases/download/v0.10.182/Mnemne.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUVVndVdrVU1MbEVjWkp2SmhsclRyUjh2djRBS3lVQ3hLV2tjb21qR29yUXY0OXZnckdLdzFiMzFHVEFrZ2xQTjdUWWdEc3dSdVBnZW16UkV1S1R4eDhMd09heUl0QUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3ODIzCWZpbGU6TW5lbW5lLmFwcC50YXIuZ3oKOE8zNWtGZ3ZVclFmWVNrZ2NpeVd2K2ZDQ1NiNTBCZGdQY21mcVM2QnU1R1Y1alB6eFdLblBmMjlaV2lkODF6TkpJUlFPK0R4ZGd1Rk5MMEh3SlBOQ0E9PQo=",
+      "url": "https://github.com/HyacinthAI/pub-mnemne/releases/download/v0.10.183/Mnemne.app.tar.gz"
     }
   }
 }
