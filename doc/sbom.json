@@ -1,10 +1,10 @@
 {
   "bomFormat": "CycloneDX",
   "specVersion": "1.5",
-  "serialNumber": "urn:uuid:5ffd9092-c2b7-48eb-82a9-46c22737b838",
+  "serialNumber": "urn:uuid:87c43b69-50e5-4361-ae7d-464ac65b8c90",
   "version": 1,
   "metadata": {
-    "timestamp": "2026-06-12T16:55:29Z",
+    "timestamp": "2026-06-12T17:34:59Z",
     "tools": [
       {
         "vendor": "npm",
@@ -27,7 +27,7 @@
       "type": "application",
       "bom-ref": "mnemne-app",
       "name": "Mnemne",
-      "version": "0.10.188",
+      "version": "0.10.189",
       "publisher": "Hyacinth AI",
       "description": "Local-first document intelligence for macOS"
     }
